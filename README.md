@@ -10,6 +10,7 @@ I am studying Computer Engineering, I a from Colombia and this is my 2nd year in
 Seth Wilding
 This is my second year at BYU-I.  I am studying computer science. 
 
-
+Samatha Staheli
+This is my 7th semester, and I am studying computer science. I am from Mount Vernon, WA. 
 
 
